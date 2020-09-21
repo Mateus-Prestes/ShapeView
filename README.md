@@ -9,7 +9,6 @@ Nesta etapa foi realizado o desenvolvimento de um aplicativo, que tem como funç
 Esta aplicação foi desenvolvida com as seguintes tecnologias:
 * Python
 * Flask
-* PostgreSQL/postgis
 * HTML, JavaScript, CSS
 
 
