@@ -1,0 +1,95 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./css/main.css">
+        <title>Projeto integrador</title>
+        <meta charset="utf-8">
+        <style>
+            body{
+                background-color: #363636;
+                font-size: 16px;
+                font-family: Arial, Helvetica, sans-serif;
+                color: antiquewhite;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <header class="menu-principal">
+            <main>            
+                <div class="header-1">
+                    <div class="logo">
+                        <ul>
+                            <li>
+                                <a href="https://fatecsjc-prd.azurewebsites.net/" target="_blank">
+                                <img src="./imagem/fatecsjc2.png" >
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.visionaespacial.com.br/" target="_blank">
+                                    <img src="./imagem/visiona.png">
+                                </a>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="linkgit">
+                    
+                        <a href="https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre" target="_blank"><img src="./imagem/github.png"></a>
+                    
+                    </div>
+                </div>
+
+            </main>
+
+        </header>
+        <div class="entrar">
+            
+        </div>
+        <div class="entrada">
+        <h2> Bem-Vindo </h2>
+        <div class="seleçao">    
+            <ul>
+                <li>
+                    <fieldset class="arq">
+                        <legend class="arquivos">Arquivos</legend>
+                        <form name="form">
+                            <input class="arvo" type="file" />
+                        </form>
+                    </fieldset>
+                </li><br><br>
+                <li>
+                    <fieldset class="arq">
+                        <legend class="central">Central de dados</legend>
+                        <form name="form">
+                            <input class="download" type="button" name="Entrar" value="Download">
+                            <input class="upload" type="button" name="limpar" value="Upload" ><br><br>
+                            <input onclick="rodarGraficos()" class="verg" type="button" name="Entrar" value="Ver gráficos" >
+                            <input class="verd" type="reset" name="limpar" value="Ver dados" >
+                        </form>
+                    </fieldset>
+                </li>
+            </ul>
+
+            <section class="render">
+
+            </section>
+        </div>
+        </div>
+    </body>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+        function rodarGraficos() {
+            axios.get('http://localhost:5000/showgraphs').then(
+                response => { 
+                    console.log(response.data)
+                    alert('Abrindo graficos');
+                    const img = new Image(); 
+                    img.src = "./imagem/grafico/teste.png"; 
+                    document.querySelector('.render').appendChild(img); 
+                }
+            )
+
+        }
+    </script>
+</html>

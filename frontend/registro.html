@@ -1,0 +1,102 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./css/main.css">
+        <title>Registro</title>
+        <meta charset="UTF-8">
+
+        <style>
+            body{
+                background-color: #363636;
+                font-size: 16px;
+                font-family: Arial, Helvetica, sans-serif;
+                color: antiquewhite;
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+        <header class="menu-principal">
+            <main>            
+                <div class="header-1">
+                    <div class="logo">
+                        <ul>
+                            <li>
+                                <a href="https://fatecsjc-prd.azurewebsites.net/" target="_blank">
+                                <img src="./imagem/fatecsjc2.png" >
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.visionaespacial.com.br/" target="_blank">
+                                    <img src="./imagem/visiona.png">
+                                </a>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="linkgit">
+                    
+                        <a href="https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre" target="_blank"><img src="./imagem/github.png"></a>
+                    
+                    </div>
+                </div>
+
+            </main>
+
+        </header>
+        <main>
+            <div class="header-2">
+
+
+            </div>
+        </main>
+        <main>
+            <div class="entrar">
+                <ul>
+                    <li><a href="index.html">Entrar</a></li>
+                    <li><a>Registrar</a></li>
+                </ul>
+            </div>
+            <div class="entrada">
+            <h2> Preencha com o nome e a senha</h2>
+            <fieldset>
+                <legend>Registro</legend>
+                <form name="form">
+                    Nome: <input class="nomer" type="text" name="Nome" autocomplete="off"><br><br>
+                    senha: <input class="senhar" type="password" name="Senha" autocomplete="off"><br><br>
+                    email: <input class="emailr" type="text" name="Email" autocomplete="off"><br><br>
+                    <input type="button" name="Enviar" value="Enviar" onclick="register()"> 
+                    <a href=".index"><input type="reset" name="limpar" value="Limpar" ></a>
+                </form>
+            </fieldset>
+            </div> 
+        </main>
+        <script>
+            const nome_register = document.querySelector(".nomer");
+            const senha_register = document.querySelector(".senhar");
+            const email_register = document.querySelector(".emailr");
+
+            console.log('entrou no js register')
+
+            function register() {
+                const users = localStorage.getItem('USERS');
+
+                const user = { 
+                    name: nome_register.value, 
+                    password: senha_register.value, 
+                    email: email_register.value 
+                };
+                
+                if (users){
+                    localStorage.setItem('USERS', JSON.stringify([...JSON.parse(users), user])); 
+                    return;
+                }
+
+                localStorage.setItem('USERS', JSON.stringify([user]));  
+
+                  
+            }
+        </script>
+    </body>
+</html>
