@@ -15,4 +15,4 @@ Esta aplicação foi desenvolvida com as seguintes tecnologias:
 
 # Funcionamento
 
-![ezgif com-video-to-gif (1)]
+![Screen Capture_select-area_20200921012113](https://user-images.githubusercontent.com/56441534/93732797-455d2b00-fba9-11ea-8c29-4003266c038b.gif)
