@@ -20,12 +20,12 @@ Projeto Integrador realizado por alunos e professores do terceiro semestre de An
 
 ## Time
 
-* Lucas Hiroaki Okazaki – P.O/Dev Team
-* Mateus Prestes Teodoro Alves– Scrum Master/Dev Team
-* Fabrício Rodrigues de Oliveira– Dev Team
-* João Vitor de Oliveira Soeiro – Dev Team
-* Rodrigo Félix da Silva – Dev Team
-* William Daisuke Honda – Dev Team
+* ### Lucas Hiroaki Okazaki – P.O/Dev Team
+* ### Mateus Prestes Teodoro Alves– Scrum Master/Dev Team
+* ### Fabrício Rodrigues de Oliveira– Dev Team
+* ### João Vitor de Oliveira Soeiro – Dev Team
+* ### Rodrigo Félix da Silva – Dev Team
+* ### William Daisuke Honda – Dev Team
 
 ## Objetivo
 
