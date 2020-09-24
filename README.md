@@ -19,7 +19,7 @@ Projeto Integrador realizado por alunos e professores do terceiro semestre de An
 * Rodrigo Félix da Silva – Dev Team
 * William Daisuke Honda – Dev Team
 
-## O projeto
+## Objetivo
 
 O projeto tem como principal objetivo o desenvolvimento de uma aplicação web, que funcione como uma ETL para extrair dados de arquivos de formatos Shapefile e carrega-los em um banco de dados geográficos, fazendo também o processo inverso.
 
