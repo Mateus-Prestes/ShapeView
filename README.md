@@ -14,4 +14,4 @@ Esta aplicação foi desenvolvida com as seguintes tecnologias:
 
 # Funcionamento
 
-COLOCAR GIF
+![Screen Capture_select-area_20201004230547](https://user-images.githubusercontent.com/56441534/95036485-7c9a0480-069e-11eb-9169-d35b721ca85a.gif)
