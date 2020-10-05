@@ -1,2 +1,17 @@
-# Projeto-integrador-TIME4
-Projeto Integrador realizado por alunos do terceiro semestre de Análise e Desenvolvimento de Sistemas
+![fatecsjc_300x144](https://user-images.githubusercontent.com/56441534/92442086-adf9e000-f185-11ea-8794-b6c5def3daf3.png)
+
+# Sprint 2
+
+Ao entender o funcionamento do CRUD, começamos a trabalhar na etapa de estruturação do corpo do api, mais precisamente o backend. Assim, essa segunda etapa de desenvolvimento, nós focamos em entender a logica do programa para o funcionamento do CRUD, tal como a sua conexão com o servidor do banco de dados PostgreSQL.
+
+Nesta etapa foi realizado o desenvolvimento de um aplicativo, que tem as funções de CREATE, READ, UPDATE e DELETE. Ele conta com uma conexão com o servidor do banco de dados do Postgre em localhost.
+
+Esta aplicação foi desenvolvida com as seguintes tecnologias:
+* Eclipse IDE 2020‑09
+* Springboot 2.3.4
+* Java 8
+* PostgreSQL 13
+
+# Funcionamento
+
+COLOCAR GIF
