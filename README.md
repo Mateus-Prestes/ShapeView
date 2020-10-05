@@ -15,3 +15,5 @@ Esta aplicação foi desenvolvida com as seguintes tecnologias:
 # Funcionamento
 
 ![Screen Capture_select-area_20201004230547](https://user-images.githubusercontent.com/56441534/95036485-7c9a0480-069e-11eb-9169-d35b721ca85a.gif)
+
+![Burndow sprint2](https://user-images.githubusercontent.com/56441534/95040220-6776a300-06a9-11eb-83eb-43eb27d259f0.png)
