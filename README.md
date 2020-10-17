@@ -60,14 +60,10 @@ O ShapView é uma ferramenta funcional com um sistema ETL (Extract, Transform an
 
 O desenvolvimento da ferramenta será divido em etapas denominadas Sprints, onde a equipe apresentara os avanços no desenvolvimento para a empresa em datas específicas.
 
-<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-1'> Sprint 1 </a> - 14/09/2020 a 20/09/2020
+<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-1'> Sprint 1 </a> - 20/09/2020
 
-<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-2'> Sprint 2 </a> - 28/09/2020 a 04/10/2020
+<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-2'> Sprint 2 </a> - 18/10/2020
 
-<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-3'> Sprint 3 </a> - 12/10/2020 a 18/10/2020
+<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-3'> Sprint 3 </a> - 08/11/2020
 
-<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-4'> Sprint 4 </a> - 26/10/2020 a 01/11/2020
-
-<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-5'> Sprint 5 </a> - 09/11/2020 a 15/11/2020
-
-<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-6'> Sprint 6 </a> - 23/11/2020 a 29/11/2020
+<a href='https://github.com/Mateus-Prestes/Projeto-integrador-3-Semestre/tree/sprint-4'> Sprint 4 </a> - 29/11/2020
