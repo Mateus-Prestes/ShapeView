@@ -43,7 +43,7 @@ Nessa etapa da aplicação, ela faz a importação das bibliotecas utilizadas  e
 
 ## Upload na tabela "ft_ponto_drenagem"
 
-Seguindo a mesma logica da etapa anterior temos agora os dados referentes a FT_PONTO_DRENAGEM.
+Seguindo a mesma lógica da etapa anterior temos agora os dados referentes a FT_PONTO_DRENAGEM.
 
 ![Ponto drenagem](https://user-images.githubusercontent.com/56441534/96370220-79d5ef80-1133-11eb-8f81-1d473d33d64e.gif)
 
