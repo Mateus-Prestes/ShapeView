@@ -1,7 +1,15 @@
-![fatecsjc_300x144](https://user-images.githubusercontent.com/56441534/92442086-adf9e000-f185-11ea-8794-b6c5def3daf3.png)
-![18_10_2020_10_28_51](https://user-images.githubusercontent.com/58118956/96368863-d97ccc80-112c-11eb-8a52-938b4327fc50.jpg)
+<div>
+  <p align="center">
+            <img src="https://user-images.githubusercontent.com/56441534/92442086-adf9e000-f185-11ea-8794-b6c5def3daf3.png">
+            <img baackgroundcolor="white" width = "270px">
+            <img src="https://user-images.githubusercontent.com/58118956/96368863-d97ccc80-112c-11eb-8a52-938b4327fc50.jpg"></p>
+</div>     
+
 
 # Sprint 2
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56441534/96368958-5f991300-112d-11eb-8560-70bbdf57b9d6.jpeg"> </p>
 
 Ao entender o funcionamento do CRUD, começamos a trabalhar na etapa de estruturação do corpo do api, mais precisamente o backend. Assim, essa segunda etapa de desenvolvimento, nós focamos em entender a logica do programa para o funcionamento do CRUD, tal como a sua conexão com o servidor do banco de dados PostgreSQL.
 
