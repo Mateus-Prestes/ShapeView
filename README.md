@@ -41,7 +41,7 @@ Shapefile é um formato de arquivo que contém dados geoespaciais salvos em form
 
 ![logo](https://user-images.githubusercontent.com/56441534/94135974-9768af80-fe3a-11ea-85c4-e640cd767dbb.jpeg)
 
-O ShapView é uma ferramenta funcional com um sistema ETL (Extract, Transform and Load) que por suavez tem a capacidade de salvar os registros de shapefiles em banco de dados geográficos. Podendo também converter seus dados do banco de volta em um Shapefile partindo dos dados registrados no banco.
+O ShapView é uma ferramenta funcional com um sistema ETL (Extract, Transform and Load) que por sua vez tem a capacidade de salvar os registros de shapefiles em banco de dados geográficos. Podendo também converter seus dados do banco de volta em um Shapefile partindo dos dados registrados no banco.
 
 ##  Requisitos Funcionais
 * Carregamento de dados geográficos (ponto, linha e polígono) e seus atributos, em tabelas existentes do seu respectivo banco de dados geográficos.
