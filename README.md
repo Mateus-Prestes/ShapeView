@@ -37,13 +37,13 @@ descrição
 
 ## Upload na tabela "ft_curso_dagua"
 
-descrição
+Nessa etapa da aplicação, ela faz a importação das bibliotecas utilizadas  em seu funcionamento. Em seguida ela faz a conexão com o banco de dados. Assim a aplicação também atribui os dados geograficos referentes a FT_BACIA_HIDROGRÁFICA_N1 a uma variável. Os dados são tratados e logo após são enviados as sua respectiva tabela e inseridas no banco de dados.
 
 ![Curso dagua](https://user-images.githubusercontent.com/56441534/96370162-4f843200-1133-11eb-861e-91c429bb1476.gif)
 
 ## Upload na tabela "ft_ponto_drenagem"
 
-descrição
+Seguindo a mesma logica da etapa anterior temos agora os dados referentes a FT_PONTO_DRENAGEM.
 
 ![Ponto drenagem](https://user-images.githubusercontent.com/56441534/96370220-79d5ef80-1133-11eb-8f81-1d473d33d64e.gif)
 
