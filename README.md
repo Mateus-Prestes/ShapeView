@@ -10,6 +10,8 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56441534/96368958-5f991300-112d-11eb-8560-70bbdf57b9d6.jpeg"> </p>
+ 
+# CRUDE  
 
 Ao entender o funcionamento do CRUD, começamos a trabalhar na etapa de estruturação do corpo do api, mais precisamente o backend. Assim, essa segunda etapa de desenvolvimento, nós focamos em entender a logica do programa para o funcionamento do CRUD, tal como a sua conexão com o servidor do banco de dados PostgreSQL.
 
@@ -21,8 +23,27 @@ Esta aplicação foi desenvolvida com as seguintes tecnologias:
 * Java 8
 * PostgreSQL 13
 
-# Funcionamento
+## Funcionamento
 
 ![Screen Capture_select-area_20201004230547](https://user-images.githubusercontent.com/56441534/95036485-7c9a0480-069e-11eb-9169-d35b721ca85a.gif)
 
-![Burndow sprint2](https://user-images.githubusercontent.com/56441534/95040220-6776a300-06a9-11eb-83eb-43eb27d259f0.png)
+# Upload dos shapefile's nas respectivas tabelas do Banco de Dados
+
+## Upload na tabela "ft_bacia_hidrografia_n1"
+
+descrição
+
+![Bacia Hidrografica n1](https://user-images.githubusercontent.com/56441534/96370050-fa482080-1132-11eb-9f05-7e4c02b10077.gif)
+
+## Upload na tabela "ft_curso_dagua"
+
+descrição
+
+![Curso dagua](https://user-images.githubusercontent.com/56441534/96370162-4f843200-1133-11eb-861e-91c429bb1476.gif)
+
+## Upload na tabela "ft_ponto_drenagem"
+
+descrição
+
+![Ponto drenagem](https://user-images.githubusercontent.com/56441534/96370220-79d5ef80-1133-11eb-8f81-1d473d33d64e.gif)
+
