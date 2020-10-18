@@ -33,7 +33,7 @@ Esta aplicação foi desenvolvida com as seguintes tecnologias:
 
 ## Upload na tabela "ft_bacia_hidrografia_n1"
 
-Nessa etapa da aplicação, ela faz a importação das bibliotecas utilizadas  em seu funcionamento. Em seguida ela faz a conexão com o banco de dados. Assim a aplicação também atribui os dados geograficos referentes a FT_BACIA_HIDROGRÁFICA_N1 a uma variável. Os dados são tratados e logo após são enviados as sua respectiva tabela e inseridas no banco de dados.
+Nessa etapa da aplicação, ela fará a importação das bibliotecas utilizadas  em seu funcionamento. Em seguida ela faz a conexão com o banco de dados. Assim a aplicação também atribui os dados geograficos referentes a FT_BACIA_HIDROGRÁFICA_N1 a uma variável. Os dados são tratados e logo após são enviados as sua respectiva tabela e inseridas no banco de dados.
 
 ![Bacia Hidrografica n1](https://user-images.githubusercontent.com/56441534/96370050-fa482080-1132-11eb-9f05-7e4c02b10077.gif)
 
