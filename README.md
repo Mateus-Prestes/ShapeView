@@ -31,13 +31,13 @@ Esta aplicação foi desenvolvida com as seguintes tecnologias:
 
 ## Upload na tabela "ft_bacia_hidrografia_n1"
 
-descrição
+Nessa etapa da aplicação, ela faz a importação das bibliotecas utilizadas  em seu funcionamento. Em seguida ela faz a conexão com o banco de dados. Assim a aplicação também atribui os dados geograficos referentes a FT_BACIA_HIDROGRÁFICA_N1 a uma variável. Os dados são tratados e logo após são enviados as sua respectiva tabela e inseridas no banco de dados.
 
 ![Bacia Hidrografica n1](https://user-images.githubusercontent.com/56441534/96370050-fa482080-1132-11eb-9f05-7e4c02b10077.gif)
 
 ## Upload na tabela "ft_curso_dagua"
 
-Nessa etapa da aplicação, ela faz a importação das bibliotecas utilizadas  em seu funcionamento. Em seguida ela faz a conexão com o banco de dados. Assim a aplicação também atribui os dados geograficos referentes a FT_BACIA_HIDROGRÁFICA_N1 a uma variável. Os dados são tratados e logo após são enviados as sua respectiva tabela e inseridas no banco de dados.
+Seguindo a mesma lógica da etapa anterior temos agora os dados referentes a FT_CURSO_DAGUA.
 
 ![Curso dagua](https://user-images.githubusercontent.com/56441534/96370162-4f843200-1133-11eb-861e-91c429bb1476.gif)
 
