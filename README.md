@@ -59,7 +59,7 @@ O ShapView é uma ferramenta funcional com um sistema ETL (Extract, Transform an
 
 ## BackLog
 
-![Cards](https://user-images.githubusercontent.com/56441534/94143111-bf114500-fe45-11ea-8125-62a85c3c9a08.jpeg)
+![WhatsApp Image 2020-10-18 at 11 56 46](https://user-images.githubusercontent.com/58118956/96376895-fb3f7900-1157-11eb-8eaa-e6fe8399f054.jpeg)
 
 ## Etapas de Desenvolvimento
 
