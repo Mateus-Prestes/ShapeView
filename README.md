@@ -49,3 +49,10 @@ Seguindo a mesma lógica da etapa anterior temos agora os dados referentes a FT_
 
 ![Ponto drenagem](https://user-images.githubusercontent.com/56441534/96370220-79d5ef80-1133-11eb-8f81-1d473d33d64e.gif)
 
+# Gráfico BurnDown
+
+Nosso gráfico BurnDown representando nosso trabalho ao longo do desenvolvimento da Sprin-2.
+
+![BurnDown-Sprint-2](https://user-images.githubusercontent.com/56441534/96372780-f28e7900-113e-11eb-8dad-404c83ced5f2.png)
+
+
