@@ -54,7 +54,7 @@ O ShapView é uma ferramenta funcional com um sistema ETL (Extract, Transform an
 * Documentações.
 
 ## Tecnologias utilizadas para desenvolvimento da Aplicação.
-* Backend – Python e Java
+* Backend – Python, flask e Java
 * Frontend – HTML, JavaScript e CSS 
 * Banco - PostGre/GIS
 
