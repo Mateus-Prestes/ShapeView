@@ -8,12 +8,12 @@
 
 # Sprint 2
 
-Nesta sprint trouxemos o que na opnião de nosso time é de mais valor no momento para nosso cliente, sendo o corpo de nosso CRUDE que tem a capacidade de se conectar com o banco de dados e também o tratamento dos dados fornecidos pelo cliente, realizando o upload dos mesmos nas respecitivas tabelas do banco. Estes serviços estão funcionando bem separadamente, nas proximas sprints entregaremos estes serviços integrados em uma só aplicação.
+Nesta sprint trouxemos o que na opnião de nosso time é de mais valor no momento para nosso cliente, sendo o corpo de nosso CRUD que tem a capacidade de se conectar com o banco de dados, e também o tratamento dos dados fornecidos pelo cliente, realizando o upload dos mesmos nas respectivas tabelas do banco. Estes serviços estão funcionando 100% separadamente, e nas proximas sprints entregaremos estes serviços integrados em uma só aplicação.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56441534/96368958-5f991300-112d-11eb-8560-70bbdf57b9d6.jpeg"> </p>
  
-# CRUDE  
+# CRUD  
 
 Ao entender o funcionamento do CRUD, começamos a trabalhar na etapa de estruturação do corpo do api, mais precisamente o backend. Assim, essa segunda etapa de desenvolvimento, nós focamos em entender a logica do programa para o funcionamento do CRUD, tal como a sua conexão com o servidor do banco de dados PostgreSQL.
 
