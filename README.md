@@ -70,7 +70,7 @@ Para o desenvolvimento do Backend da aplicação foram utilizadas as tecnologias
 Como foi necessário a utilização de um banco de dados, a equipe utilizou o PostGre/Gis
 
 ## BackLog
- A equipe, juntamente com os colaboradores, definiu um Backlog a ser seguido, para apresentar os resultados que foram alcançados de acordo com a data de entrega de cada etapa de desenvolvimento. Segue modelo do Backlog da equipe.
+ A equipe, juntamente com os colaboradores, definiu um Backlog a ser seguido para apresentar os resultados que foram alcançados de acordo com a data de entrega de cada etapa de desenvolvimento. Segue modelo do Backlog da equipe.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58118956/96376895-fb3f7900-1157-11eb-8eaa-e6fe8399f054.jpeg"> </p>
