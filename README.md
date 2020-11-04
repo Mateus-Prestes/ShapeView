@@ -45,20 +45,32 @@ Shapefile é um formato de arquivo que contém dados geoespaciais salvos em form
 O ShapView é uma ferramenta funcional com um sistema ETL (Extract, Transform and Load) que por sua vez tem a capacidade de salvar os registros de shapefiles em banco de dados geográficos. Podendo também converter seus dados do banco de volta em um Shapefile partindo dos dados registrados no banco.
 
 ##  Requisitos Funcionais
+
 * Carregamento de dados geográficos (ponto, linha e polígono) e seus atributos, em tabelas existentes do seu respectivo banco de dados geográficos.
 * Recuperação de dados geográficos (ponto, linha e polígono) e seus atributos, dados esses que estão armazenados em seu respectivo banco de dados geográficos.
 
 ## Requisitos não funcionais
+
 * Linguagem Java;
 * Banco de Dados Geográficos PostGIS;
 * Documentações.
 
 ## Tecnologias utilizadas para desenvolvimento da Aplicação.
-* Backend – Python, flask e Java
-* Frontend – HTML, JavaScript e CSS 
-* Banco - PostGre/GIS
+
+Essa aplicação conta com a utilização de diversas tecnologias para o seu desenvolvimento. Para o desenvolvimento do Frontend da aplicação foram utilizadas as tecnologias:
+* HTML
+* JavaScript
+* CSS
+
+Para o desenvolvimento do Backend da aplicação foram utilizadas as tecnologias:
+* Python
+* Flask
+* Java
+
+Como foi necessário a utilização de um banco de dados, a equipe utilizou o PostGre/Gis
 
 ## BackLog
+ A equipe, juntamente com os colaboradores, definiu um Backlog a ser seguido, para apresentar os resultados que foram alcançados de acordo com a data de entrega de cada etapa de desenvolvimento. Segue modelo do Backlog da equipe.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58118956/96376895-fb3f7900-1157-11eb-8eaa-e6fe8399f054.jpeg"> </p>
