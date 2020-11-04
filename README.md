@@ -23,6 +23,9 @@ Projeto Integrador realizado por alunos e professores do terceiro semestre de An
 * ### João Vitor de Oliveira Soeiro – Dev Team
 * ### Rodrigo Félix da Silva – Dev Team
 * ### William Daisuke Honda – Dev Team
+* ### Kleber Apolinário Júnior - Dev Team
+* ### João Pedro Apse Paes - Dev Team
+
 
 ## Objetivo
 
