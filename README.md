@@ -92,16 +92,20 @@ O ShapView nasceu com o propósito de ser uma ferramenta funcional e intuitiva c
 ## Tecnologias utilizadas para desenvolvimento da Aplicação.
 
 Essa aplicação conta com a utilização de diversas tecnologias para o seu desenvolvimento. Para o desenvolvimento do Frontend da aplicação foram utilizadas as tecnologias:
-* HTML
-* JavaScript
-* CSS
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/58118956/98377565-bd7d9400-2023-11eb-88fb-55ca1564dfe5.png"> </p>
+
 
 Para o desenvolvimento do Backend da aplicação foram utilizadas as tecnologias:
-* Python
-* Flask
-* Java
 
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/58118956/98378720-287b9a80-2025-11eb-81af-8abb515c14b8.png"> </p>
+  
 Como foi necessário a utilização de um banco de dados, a equipe utilizou o PostGre/Gis
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/58118956/98378973-7db7ac00-2025-11eb-9bdf-50e799a76ba2.png"> </p>
 
 ## BackLog
  A equipe, juntamente com os colaboradores, definiu um Backlog a ser seguido para apresentar os resultados que foram alcançados de acordo com a data de entrega de cada etapa de desenvolvimento. Segue modelo do Backlog da equipe.
