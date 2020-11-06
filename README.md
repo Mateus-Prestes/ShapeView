@@ -31,21 +31,52 @@ Projeto Integrador realizado por alunos e professores do terceiro semestre de An
 
 O projeto tem como principal objetivo o desenvolvimento de uma aplicação web, que funcione como uma ETL para extrair dados de arquivos de formatos Shapefile e carrega-los em um banco de dados geográficos, fazendo também o processo inverso.
 
-## O que é uma ETL
-
-Uma ferramenta ETL é bastante popular no ramo de Busines Intelligence, tendo como função básica a Extração, Transformação e Carga (Extract, Transform and Load) e trata da sistematização do tratamento e limpeza de dados de diversos sistemas organizacionais.
-É divido em três etapas como descrito anteriormente. A extração, Transformação e a Carga.
-
 ## Shapefile
 
 Shapefile é um formato de arquivo que contém dados geoespaciais salvos em forma de vetor. Descrevem geometrias: pontos, linhas, e polígonos. Entre outros, essas mesmas geometrias podem respectivamente representar Poços, Rios, e Lagos. Cada geometria podendo ter atributos que as descrevem, por exemplo: nome, temperatura ou profundidade.
 
-# ShapView - Seu ShapeFile rápido e facil
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58118956/98367989-52c55c00-2015-11eb-85e9-f688d5b67298.png"> </p>
+
+## O que é uma ETL
+
+Dentro do contexto de Data Warehouse (DW) e Business Intelligence (BI), o processo de ETL é muito popular. A sigla tem, por sua vez, como significado Extração, Transformação e Carga (Extract, Transform and Load) e trata da sistematização do tratamento e limpeza dos dados oriundos dos diversos sistemas organizacionais (OLTP) para a inserção em um Data Warehouse ou Data Mart.
+
+Como podemos perceber, esse processo possui três etapas. A primeira delas é a Extração, a segunda a Transformação e por fim, a terceira etapa de Carga. Cada uma delas com grande importância para o que tenhamos sucesso na transição dos dados do sistema para a origem do DW.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58118956/98368865-c87df780-2016-11eb-91de-7a5d85114f05.png"> </p>
+
+A etapa de extração pode ser entendida como a fase em que os dados são extraídos dos OLTPs e conduzidos para a staging area (área de transição ou área temporária), onde são convertidos para um único formato. A conversão se faz necessária devido a heterogeneidade existente nas informações oriundas desses sistemas, sendo essencial a conformação prévia para o tratamento adequado.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58118956/98369016-03802b00-2017-11eb-9ccc-dad11051c2ef.png"> </p>
+  
+Após a extração, teremos subsídios para iniciar a etapa de transformação e limpeza dos dados. Nessa fase são corrigidos, padronizados e tratados os desvios e inconsistências, transformando os dados de acordo com as regras do negócio.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58118956/98369449-be102d80-2017-11eb-8abf-4ebcd8f7c209.png"> </p>
+
+A etapa de carga ocorre em sequência com a de transformação. Assim que são efetuados os tratamentos necessários nos dados, a carga no DW é iniciada. Essa fase se resume a persistência dos dados na base consolidada.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58118956/98369518-d718de80-2017-11eb-814f-ddede1d5aeb6.png"> </p>
+
+O ETL é fundamental para qualquer iniciativa de DW. Porém deve ser planejado com cuidado para não comprometer os sistemas transacionais (OLTP) das empresas. Um bom ETL deve ter escalabilidade e ser manutenível.
+
+Portanto, devemos tratar o ETL como sendo o “cordão umbilical” que une e possibilita a condução dos dados ao DW. O processo deve ser bem planejado para evitar transtornos futuros e até mesmo para que não ocasione, em casos extremos, a interrupção dos sistemas operacionais da empresa. Dessa forma, o DW terá informações tratadas, com qualidade e grande valor para apoiar as decisões organizacionais.
+
+Com esse entendimento do processo, surgiu o ShapView. A ferramenta de desenvolvida pela equipe.
+
+# ShapView - Seu ShapeFile rápido e fácil
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56441534/94135974-9768af80-fe3a-11ea-85c4-e640cd767dbb.jpeg"> </p>
- 
-O ShapView é uma ferramenta funcional com um sistema ETL (Extract, Transform and Load) que por sua vez tem a capacidade de salvar os registros de shapefiles em banco de dados geográficos. Podendo também converter seus dados do banco de volta em um Shapefile partindo dos dados registrados no banco.
+
+O ShapView nasceu com o propósito de ser uma ferramenta funcional e intuitiva com um sistema ETL. Sendo capaz de realizar os processos de um ETL com os dados em formato Shapefile, salvando os registros em um banco de dados geográficos. Além de ter, também, a funcionalidade de converter os dados do banco de volta em um formato Shapefile , tendo como partida os dados posteriormente registrados no banco.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58118956/98375738-4d6e0e80-2021-11eb-9e9e-4c84a1acce36.png"> </p>
 
 ##  Requisitos Funcionais
 
