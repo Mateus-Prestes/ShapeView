@@ -94,7 +94,7 @@ O ShapView nasceu com o propósito de ser uma ferramenta funcional e intuitiva c
 Essa aplicação conta com a utilização de diversas tecnologias para o seu desenvolvimento. Para o desenvolvimento do Frontend da aplicação foram utilizadas as tecnologias:
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/58118956/98377565-bd7d9400-2023-11eb-88fb-55ca1564dfe5.png"> </p>
+  <img src="https://user-images.githubusercontent.com/58118956/98484021-6a563d80-21eb-11eb-90fc-7aa97a8ff381.png"> </p>
 
 
 Para o desenvolvimento do Backend da aplicação foram utilizadas as tecnologias:
