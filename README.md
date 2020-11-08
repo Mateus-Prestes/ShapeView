@@ -7,4 +7,4 @@
 
  # Sprint 4
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58118956/98406164-3f81b300-204c-11eb-8445-74e7f75afcb9.png"> </p>
+  <img src="https://user-images.githubusercontent.com/58118956/98483685-2b26ed00-21e9-11eb-8c24-8a7198595e2a.jpg"> </p>
