@@ -107,6 +107,10 @@ Como foi necessário a utilização de um banco de dados, a equipe utilizou o Po
 <p align="left">
   <img src="https://user-images.githubusercontent.com/58118956/98378973-7db7ac00-2025-11eb-9bdf-50e799a76ba2.png"> </p>
 
+## Wireframe
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/58118956/98486527-7f879800-21fc-11eb-9cbf-c658e33e0811.jpg"> </p>
+
 ## BackLog
  A equipe, juntamente com os colaboradores, definiu um Backlog a ser seguido para apresentar os resultados que foram alcançados de acordo com a data de entrega de cada etapa de desenvolvimento. Segue modelo do Backlog da equipe.
 
