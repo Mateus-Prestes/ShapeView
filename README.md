@@ -37,7 +37,7 @@ Por fim, o usuário finaliza o processo realizando o upload dos arquivos selecio
 
 # Burndown Sprint 3
 
-Nosso gráfico Burndown representando nosso trabalho ao longo do desenvolvimento da Sprint-3.
+Gráfico Burndown representando o trabalho da equipe ao longo do desenvolvimento da Sprint-3.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58118956/98404864-1829e680-204a-11eb-9e25-72c85cdcf073.png"> </p>
