@@ -29,7 +29,7 @@ Nessa tela o usuário poderá selecionar o arquivo Shapefile desejado para reali
 
 ## Resultado no banco
 
-Por fim, o usuário finaliza o processo realizando o upload dos arquivos selecionados através do ShapView. Ao finalizar o processo, ele poderá vizualizar o resultado em seu banco de dados. Neste exemplo, utilizamosa interface grafica do PostGis, o pgAdmin, para mostrar os resultados.
+Por fim, o usuário finaliza o processo realizando o upload dos arquivos selecionados através do ShapView. Ao finalizar o processo, ele poderá vizualizar o resultado em seu banco de dados. Neste exemplo, utilizamos a interface gráfica do PostgreSQL, o pgAdmin, para exibir os resultados.
 
 
 ![result](https://user-images.githubusercontent.com/56441534/98494822-9f2eb880-221c-11eb-8fc1-ac16a72221bb.gif)
@@ -37,7 +37,7 @@ Por fim, o usuário finaliza o processo realizando o upload dos arquivos selecio
 
 # Burndown Sprint 3
 
-Nosso gráfico Burndown representando nosso trabalho ao longo do desenvolvimento da Sprin-3.
+Nosso gráfico Burndown representando nosso trabalho ao longo do desenvolvimento da Sprint-3.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58118956/98404864-1829e680-204a-11eb-9e25-72c85cdcf073.png"> </p>
