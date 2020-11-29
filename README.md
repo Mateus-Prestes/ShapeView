@@ -24,5 +24,13 @@
 
 # Gráfico Burndown da Sprint 4
 
+Burndown das atividades realizadas nessa Sprint.
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/58118956/100553040-02cf6300-326a-11eb-9235-e4526cbb76dc.png"> </p>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/58118956/100553049-0fec5200-326a-11eb-81ee-bef4b017f129.png"> </p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58118956/100551412-132e1080-325f-11eb-9043-27f9180a68c4.jpg"> </p>
