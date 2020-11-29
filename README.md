@@ -6,5 +6,23 @@
 </div>    
 
  # Sprint 4
+ 
+ Nessa etapa final de desenvolvimento do Shapview, foi realizado o processo para extração dos dados previamente carregados no banco de dados de volta em formato Shapefile. Assim como a correção de dos bugs para a finalização do projeto.
+ 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58118956/98483685-2b26ed00-21e9-11eb-8c24-8a7198595e2a.jpg"> </p>
+  <img src="https://user-images.githubusercontent.com/58118956/100550345-2db0bb80-3258-11eb-924d-0a726e45f4f8.jpg"> </p>
+
+# Processo de Extração dos Dados do Banco
+
+<p align="center">
+  <img src=""> </p>
+
+# ShapeView Finalizado e funcionado
+
+<p align="center">
+  <img src=""> </p>
+
+# Gráfico Burndown da Sprint 4
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58118956/100551412-132e1080-325f-11eb-9043-27f9180a68c4.jpg"> </p>
