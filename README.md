@@ -19,6 +19,18 @@
 
 # ShapeView Finalizado e funcionado
 
+Após termos trabalhado duramente no desenvolvimento do projeto, nessa etapa finalizamos o que nos foi proposto, uma aplicação web que funciona como uma mini ETL para arquivos em formato Shapefile.
+
+<p align="center">
+  <img src=""> </p>
+
+Contando com uma tal de login e senha para que o usuário tenha acesso a aplicação, assim é necessário que o usuário realize um cadastro, uma vez que tenha realizado esse processo terá acesso a ferramenta.
+
+<p align="center">
+  <img src=""> </p>
+
+Na ferramenta poderá realizar o upload e o download dos arquivos nos bancos de dados geográficos a sua escolha. Uma vez que fara a conexão com o banco a sua escolha para salvar os arquivos
+
 <p align="center">
   <img src=""> </p>
 
