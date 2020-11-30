@@ -13,6 +13,7 @@
   <img src="https://user-images.githubusercontent.com/58118956/100550345-2db0bb80-3258-11eb-924d-0a726e45f4f8.jpg"> </p>
 
 # Processo de Extração dos Dados do Banco
+Neste gif pode-se vizualizar a pasta "Shapefile tratado" vazia, e assim que o úsuario informa o nome da tabela com os dados a serem convertidos e confirma o ShapeView realiza a conversão destes dados em um novo shapefile e salva dentro da pasta "Shapefile tratado" do sistema.
 
 ![Download](https://user-images.githubusercontent.com/56441534/100556793-847fba80-3283-11eb-8f9a-391b2cb278bf.gif)
 
