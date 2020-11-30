@@ -58,7 +58,7 @@ Extraindo os dados do banco de dados para a criação de um novo arquivo Shapefi
 Burndown das atividades realizadas nessa Sprint.
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/58118956/100553040-02cf6300-326a-11eb-9235-e4526cbb76dc.png"> </p>
+  <img src="https://user-images.githubusercontent.com/58118956/100558799-97e45300-328e-11eb-82b0-cf9420ee86d2.png"> </p>
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/58118956/100553049-0fec5200-326a-11eb-81ee-bef4b017f129.png"> </p>
