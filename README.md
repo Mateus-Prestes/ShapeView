@@ -7,7 +7,7 @@
 
  # Sprint 4
  
- Nessa etapa final de desenvolvimento do Shapview, foi realizado o processo para extração dos dados previamente carregados no banco de dados de volta em formato Shapefile. Assim como a correção dos bugs para a finalização do projeto.
+ Nessa etapa final de desenvolvimento do Shapview, foi realizado o processo para extração dos dados previamente carregados no banco de dados de volta em formato Shapefile. Assim como a correção dos bugs e upgrades para a finalização do projeto.
  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58118956/100550345-2db0bb80-3258-11eb-924d-0a726e45f4f8.jpg"> </p>
@@ -22,7 +22,7 @@
 Após termos trabalhado duramente no desenvolvimento do projeto, nessa etapa finalizamos o que nos foi proposto, uma aplicação web que funciona como uma mini ETL para arquivos em formato Shapefile O "ShapeView".
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/58118956/100558113-b85ede00-328b-11eb-9046-8a5fb7230792.png">
 
 Contando com uma tela de login e senha para que o usuário tenha acesso a aplicação, assim é necessário que o usuário realize um cadastro, uma vez que tenha realizado esse processo terá acesso a ferramenta.
 
