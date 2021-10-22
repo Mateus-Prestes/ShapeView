@@ -87,11 +87,12 @@ Assim, com essa base de conhecimento e entendendo melhor o problema do cliente, 
 O Shapeview que tem como objetivo funcionar como um mini ETL(extract, transform and load), suprindo essa necessidade da empresa. Podendo realizar “uploads” de forma personalizada de seus arquivos em formato Shapefile no seu banco de dados e ainda fazer "downloads" dos arquivos que estão salvos ali.   
   
 # Requisitos
-## Não funcionais
+## funcionais
 * Carga de dados geográficos (ponto, linha e polígono) e seus atributos alfanuméricos em tabelas existentes de banco de dados geográficos.
 * Recuperação de dados geográficos (ponto, linha e polígono) e seus atributos alfanuméricos armazenados em banco de dados geográficos.
 
-## Funcionais
+## Não Funcionais
+* Linguagem Java ou python; 
 * Banco de Dados Geográficos PostGIS;
 * Documentações.
 
